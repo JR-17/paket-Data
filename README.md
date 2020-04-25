@@ -1,0 +1,2 @@
+# paket-Data
+Telkomsel only
